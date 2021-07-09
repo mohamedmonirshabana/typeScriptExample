@@ -1,5 +1,7 @@
-function log(message) {
-    console.log(message);
+function doSomthing() {
+    for (var i = 0; i < 5; i++) {
+        console.log(i);
+    }
+    console.log('finally: ' + i);
 }
-var message = 'hello world';
-log(message);
+doSomthing();
