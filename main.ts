@@ -4,3 +4,11 @@ let c: string;
 let d: any;
 let e: number[] = [1, 3, 4,];
 let f: any[] = [1, true, 'a', false];
+
+const ColorRed = 0;
+const ColorGreen = 1;
+const ColorBlue = 2;
+
+enum Color {Red,Green,Blue};
+
+let backGroundColor = Color.Red;
