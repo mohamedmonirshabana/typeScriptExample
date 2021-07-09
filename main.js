@@ -7,9 +7,6 @@ var Point = /** @class */ (function () {
     Point.prototype.draw = function () {
         console.log('X: ' + this.x + ' ,y:' + this.y);
     };
-    Point.prototype.getDistance = function (another) {
-        // ...
-    };
     return Point;
 }());
 var point = new Point(1, 2);
