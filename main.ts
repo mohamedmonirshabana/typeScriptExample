@@ -1,6 +1,8 @@
-let message;
-message = 'abc';
-let endwith = <string>message.endsWith('c');
-let alt1 = (<string>message).endsWith('c');
-let alt2 = (message as string).endsWith('c');
-// Other Shape
+let log = function (message) {
+    console.log(message);
+}
+
+let doLog = (message) => console.log(message); // Function 
+
+
+
