@@ -1,0 +1,101 @@
+[33mcommit 3bccff35dea5c6943d07df77b41dd7e59102dbf1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 19:42:28 2021 +0200
+
+    Class Accessmodifire
+
+[33mcommit 9d14a8c85ed31e3b979941a7356c37d20d786085[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 19:41:32 2021 +0200
+
+    Class AccessModifire
+
+[33mcommit e0c11757971b36b8d0d5e1d08336acba3e8581fa[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 19:37:37 2021 +0200
+
+    Class constructor
+
+[33mcommit f3febdc492c79c9a7083c0200e39c5270d3df7cc[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 19:12:13 2021 +0200
+
+    Class Worked
+
+[33mcommit 21ca01066ccd0aa23c27d771fd31f5de770d389e[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 19:10:29 2021 +0200
+
+    Add Before Edit
+
+[33mcommit 5cba937b8c52b1c56b4470bbee577654acbeb7d1[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 18:53:47 2021 +0200
+
+    Add Class For File
+
+[33mcommit a16f4fe7d20de9bc36391b1b78c7ca3e6dd2b4a0[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 18:44:33 2021 +0200
+
+    Add interface For Point
+
+[33mcommit 45649785d2673376ffc2611500c49bffe8f88eab[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 18:39:59 2021 +0200
+
+    Some interFace for point
+
+[33mcommit 389f69cb17ff820b625a73c33eb5c54c4557dc66[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 17:29:18 2021 +0200
+
+    Add Arrow Function
+
+[33mcommit ce09e03821474c0ef9e8281b5bff51a18ca6ea6b[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 17:25:44 2021 +0200
+
+    Add some way for Code in String
+
+[33mcommit 9a525159027c9df9f0917ed71d182132740bd694[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 17:20:05 2021 +0200
+
+    Add Enum to js file
+
+[33mcommit fd9d801c9b998b9b298edbdd3d6033bd84d90462[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 17:17:33 2021 +0200
+
+    Add Enum for Code
+
+[33mcommit 92b6618b42774cb32670de4af1855c69d46ba1a0[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 16:29:22 2021 +0200
+
+    TypeScript Type
+
+[33mcommit 296e38913c46642bcf3cceea2f6836601ac56166[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 16:21:08 2021 +0200
+
+     Tray to Compile
+
+[33mcommit 3417f21773adc31234ffe2738e1642fdc6394f14[m
+Author: Mohamedmonirshabana <mohamed.monir.shabana@gmail.com>
+Date:   Fri Jul 9 16:16:45 2021 +0200
+
+     Add new Function to File
+
+[33mcommit dfb1e181e35d0b99fb7617c7486ffe18c2623e15[m[33m ([m[1;32mtypescriptfeature[m[33m)[m
+Author: medo <mohamed.monir.shabana@gmail.com>
+Date:   Thu Jul 8 16:04:24 2021 +0200
+
+    first commit
+
+[33mcommit cdb020f888896393ac8ab46f15e3336d87c1eb5b[m
+Author: medo <mohamed.monir.shabana@gmail.com>
+Date:   Thu Jul 8 16:01:37 2021 +0200
+
+    Stat in typeScript
