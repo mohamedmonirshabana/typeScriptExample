@@ -1,10 +1,6 @@
-function doSomthing() {
-    
-    for (let i = 0; i < 5; i++)
-    {
-        console.log(i);
-    }
-    console.log('finally: ' + i);
-}
-
-doSomthing();
+let a: number;
+let b: boolean;
+let c: string;
+let d: any;
+let e: number[] = [1, 3, 4,];
+let f: any[] = [1, true, 'a', false];
