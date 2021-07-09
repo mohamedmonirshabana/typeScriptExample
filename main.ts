@@ -1,8 +1,9 @@
-let log = function (message) {
-    console.log(message);
+let drawPoint = (point) => {
+    //...
+    
 }
 
-let doLog = (message) => console.log(message); // Function 
-
-
-
+drawPoint({
+    x: 1,
+    y: 2
+});
