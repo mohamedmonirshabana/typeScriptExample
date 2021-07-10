@@ -14,7 +14,7 @@ var LikeComponent = /** @class */ (function () {
         //     this.likesCount++;
         //     // this.isSelected = true;
         // }
-        this.likesCount += (this.isSelected) ? 1 : -1;
+        this.likesCount += (this.isSelected) ? -1 : 1;
         this.isSelected = !this.isSelected;
     };
     return LikeComponent;
